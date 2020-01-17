@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Web Service Import Set Tables" source="com.snc.web_service_import_set_tables">a1854d06dbc20010ed1784da0b9619b9</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>vamsi</sys_created_by>
+        <sys_created_on>2020-01-16 10:45:09</sys_created_on>
+        <sys_id>305547badb964010ed1784da0b96190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_updated_by>vamsi</sys_updated_by>
+        <sys_updated_on>2020-01-16 10:45:09</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
