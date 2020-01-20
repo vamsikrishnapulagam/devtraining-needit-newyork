@@ -57,6 +57,25 @@
             <sys_updated_on>2020-01-17 07:20:39</sys_updated_on>
             <value>3</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>vamsi</sys_created_by>
+            <sys_created_on>2020-01-20 17:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65f709d4dbe6c010ed1784da0b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vamsi</sys_updated_by>
+            <sys_updated_on>2020-01-20 17:28:19</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>
             <name>x_58872_needit_needit_task</name>
